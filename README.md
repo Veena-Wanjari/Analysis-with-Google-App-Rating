@@ -32,7 +32,7 @@
 
 6) Data Visualization:
 
-Visualizing each mentioned problem with plot()
+  Visualizing each mentioned problem with plot()
 
   * Category wise Rating
 	
@@ -40,9 +40,9 @@ Visualizing each mentioned problem with plot()
 
   * Category wise Reviewing
 
-7) Analysis:
+## Analysis:
  
-## We can conclude that - 
+### We can conclude that - 
 
 a) Eventhogh the ratings are higher for Events and Education categories but people are tend to spend less. 
 It is clearly visible with the  less money spent on buying Education app.
