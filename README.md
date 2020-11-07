@@ -1,18 +1,18 @@
 # Analysis-Google-App-Rating
 
-##__To Analyse__:
+## __To Analyse__:
 
 1. Which Category has the highest rating?
 2. On which category, people are willing to spend more?
 3. Which category has received highest reviews?
 
-#####Libraries used: 
+#### Libraries used: 
 * [numpy](https://numpy.org/)
 * [pandas](https://pandas.pydata.org/)
 * [seaborn](https://seaborn.pydata.org/) 
 * [matplotlib](https://matplotlib.org/)
 
-##Steps taken to achieve solution.
+## Steps taken to achieve solution.
 
 1) Data imported from "googleplaystore.csv"
 
@@ -42,7 +42,7 @@ Visualizing each mentioned problem with plot()
 
 7) Analysis:
  
-We can conclude that - 
+## We can conclude that - 
 
 a) Eventhogh the ratings are higher for Events and Education categories but people are tend to spend less. 
 It is clearly visible with the  less money spent on buying Education app.
